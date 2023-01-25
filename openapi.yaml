@@ -21,7 +21,7 @@ info:
 #  x-logo:
 #    url: 'https://p2p.org/'
   title: |
-    Staking rewards API 1.
+    Staking rewards API.
 
     This doc describes how you can get data about staking rewards by different parameters in several POS chains.
   description: |
