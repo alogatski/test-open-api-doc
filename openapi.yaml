@@ -18,8 +18,8 @@
 openapi: 3.0.3
 
 info:
-  # x-logo:
-    # url: 'https://p2p.org/'
+#  x-logo:
+#    url: 'https://p2p.org/'
   title: |
     Staking rewards API.
 
